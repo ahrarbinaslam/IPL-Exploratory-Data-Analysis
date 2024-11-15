@@ -1,4 +1,4 @@
-# IPL 2022 Match Analysis 🏏
+# IPL 2022 Exploratory Data Analysis 🏏
 
 I analyzed the 2022 Indian Premier League (IPL) season using a dataset of match records. Using Python data analysis and visualization libraries, I explored team and player performance, toss decisions, winning strategies, and key statistics.
 
